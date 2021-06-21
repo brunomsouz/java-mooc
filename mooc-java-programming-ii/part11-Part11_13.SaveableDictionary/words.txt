@@ -1,0 +1,3 @@
+banana:phone
+smartphone:phone
+phone:smartphone
